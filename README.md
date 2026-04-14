@@ -3,7 +3,7 @@
 ### 🚀 About me
 Mid-Level Front-End Developer strongly focused on **Performance and User Experience**. Specialist in the Vue.js ecosystem, I build scalable products that handle high traffic volumes (+50k active users).
 
----
+#
 
 ## 🛠️ Tech Stack
 
