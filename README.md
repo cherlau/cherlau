@@ -33,10 +33,9 @@ Mid-Level Front-End Developer strongly focused on **Performance and User Experie
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cherlau&show_icons=true&theme=radical&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherlau&layout=compact&theme=radical&hide_border=true" height="170" />
-</div>
+[![Cherlau's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherlau&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/cherlau)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cherlau&layout=compact&theme=radical&hide_border=true)](https://github.com/cherlau)
 
 ---
 
