@@ -1,1 +1,1 @@
-👋 Hi, I'm <a href="https://cherlau.com/" target="_blank" rel="noopener noreferrer">Cherlau</a>
+👋 Hi, I'm [Cherlau](https://cherlau.com/)
