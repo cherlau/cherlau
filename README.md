@@ -30,4 +30,4 @@ I enjoy transforming complex workflows into simple, intuitive experiences, reduc
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/cherlau-prado/) &nbsp;·&nbsp; [GitHub](https://github.com/cherlau) &nbsp;·&nbsp; [Portifolio](https://cherlau.com)
+[LinkedIn](https://www.linkedin.com/in/cherlau-prado/) &nbsp;·&nbsp; [GitHub](https://github.com/cherlau) &nbsp;·&nbsp; [Portfólio](https://cherlau.com)
