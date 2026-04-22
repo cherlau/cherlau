@@ -12,6 +12,10 @@ I enjoy transforming complex workflows into simple, intuitive experiences, reduc
 
 ## Projects
 
+**[cherlau-portfolio](https://github.com/cherlau/cherlau-portfolio)** &nbsp;·&nbsp; [demo ↗](https://cherlau.com/)
+&nbsp;—&nbsp; Meu portfólio pessoal. Interface desenvolvida com foco em performance, acessibilidade e design minimalista para destacar minhas experiências e principais projetos.
+`[Tecnologia 1]` `[Tecnologia 2]` `[Tecnologia 3]`
+
 **[spotify-profile-viewer](https://github.com/cherlau/spotify-profile-viewer)** &nbsp;·&nbsp; [demo ↗](https://www.youtube.com/watch?v=Xll5ZCf7Dhw)
 &nbsp;—&nbsp; SPA React conectada à Spotify Web API via OAuth 2.0 + PKCE. Perfil musical, top artistas, faixas, playlists e player com letras sincronizadas em tempo real.
 `React 19` `TypeScript` `Vite` `TanStack Query` `CSS Modules`
@@ -26,4 +30,4 @@ I enjoy transforming complex workflows into simple, intuitive experiences, reduc
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/cherlau-prado/) &nbsp;·&nbsp; [GitHub](https://github.com/cherlau)
+[LinkedIn](https://www.linkedin.com/in/cherlau-prado/) &nbsp;·&nbsp; [GitHub](https://github.com/cherlau) &nbsp;·&nbsp; [Portifolio](https://cherlau.com)
