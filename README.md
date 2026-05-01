@@ -22,8 +22,7 @@ You found me! Okay, let’s make this interesting.
 
 ### Who I am
 
-My name is Cherlau Prado. I'm 27 years old and based in São Paulo, Brazil. In my free time, I enjoy watching movies and series. I am always eager to discover new things, whether in technology or pop culture.
-<br><br>
+My name is Cherlau Prado. I'm 27 years old and based in São Paulo, Brazil. In my free time, I enjoy watching movies and series. I am always eager to discover new things, whether in technology or pop culture. And maybe, just maybe, I'm a fan of *The Office*.<br><br>
 
 ### Current Focus
 
