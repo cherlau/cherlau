@@ -75,7 +75,7 @@ Lately, I've been exploring AI-assisted development workflows using Claude Code,
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=cherlau&locale=pt-br&mode=daily&hide_border=true&border_radius=5&background=3B5A89&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="166" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=cherlau&show_icons=true&hide_border=true&bg_color=3B5A89&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="166" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=cherlau&show_icons=true&hide_border=true&bg_color=3B5A89&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="165" />
 </div>
 
 <br>
