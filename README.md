@@ -62,8 +62,6 @@ Lately, I've been exploring AI-assisted development workflows using Claude Code,
 
 </div>
 
-<br>
-
 <div align="center">
   <h3>Stats</h3>
 </div>
