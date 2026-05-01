@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.imgur.com/wsaO3cg.jpeg"/>
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1100&lines=Full+Stack+Developer;React+%7C+Vue.js;Node.js+%7C+TypeScript;loading...&background=3B5A89"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1100&lines=Full+Stack+Developer;React+%7C+Vue.js;Node.js+%7C+TypeScript;wait...&background=3B5A89"/>
   <br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3B5A89?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cherlau-prado/)
