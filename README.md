@@ -12,7 +12,7 @@
 
 ---
 
-<img src="https://i.imgur.com/8FHpis5.jpeg" align="right" width="233" hspace="20" vspace="30">
+<img src="https://i.imgur.com/8FHpis5.jpeg" align="right" width="228" hspace="20" vspace="30">
 
 ### ... Oh! Hey!
 
@@ -26,7 +26,7 @@ My name is Cherlau Prado. I'm 27 years old and based in São Paulo, Brazil. In m
 ### Current Focus
 
 I spend most of my time deep inside a live SaaS environment dealing with real users. I build features that must be reliable, scalable, and never stop running.
-<br><br>
+<br>
 
 Lately, I've been exploring AI-assisted development workflows using Claude Code, following SDD (Spec-Driven Development) methodologies, and integrating Figma via MCP. That’s it for now =}
 
