@@ -29,7 +29,7 @@ I spend most of my time deep inside a live SaaS environment dealing with real us
 Lately, I've been exploring AI-assisted development workflows using Claude Code, following SDD (Spec-Driven Development) methodologies, and integrating Figma via MCP. That’s it for now =}
 
 <br clear="right">
-<br>
+
 
 <div align="center">
   <h3>Tecs</h3>
