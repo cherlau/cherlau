@@ -14,7 +14,7 @@
 
 ### ... Oh! Hey!
 
-You found me! Okay, let’s make this interesting.
+Let’s make this interesting.
 <br><br>
 
 ### Who I am
