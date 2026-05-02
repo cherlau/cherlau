@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1100&lines=Full+Stack+Developer;Node.js+%7C+TypeScript;React+%7C+Vue.js;Coding...&background=0D1117"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1100&lines=FullStack+Developer;Node.js+%7C+TypeScript;React+%7C+Vue.js;Coding...&background=0D1117"/>
   <br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cherlau-prado/)
