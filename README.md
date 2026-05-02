@@ -12,7 +12,7 @@
 
 ---
 
-<img src="https://i.imgur.com/8FHpis5.jpeg" align="right" width="228" hspace="20" vspace="30">
+<img src="https://i.imgur.com/8FHpis5.jpeg" align="right" width="223" hspace="20" vspace="30">
 
 ### ... Oh! Hey!
 
