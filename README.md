@@ -11,13 +11,7 @@
 
 ---
 
-
-### ... Oh! Hey!
-
-Let’s make this interesting.
-<br><br>
-
-### Who I am
+### Hi! =)
 
 My name is Cherlau Prado. I'm 27 years old and based in São Paulo, Brazil. In my free time, I enjoy watching movies and series. I am always eager to discover new things, whether in technology or pop culture.<br><br>
 
